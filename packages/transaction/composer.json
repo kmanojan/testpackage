@@ -1,0 +1,10 @@
+{
+    "name": "apptimus/transaction",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Apptimus\\Transaction\\": "src/"
+        }
+    }
+}
